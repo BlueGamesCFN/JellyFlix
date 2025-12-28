@@ -15,10 +15,10 @@
 To use this skin, go to **Dashboard** -> **General** -> **Custom CSS** and paste the following line:
 
 ```css
-@import url("https://raw.githubusercontent.com/YOUR_USERNAME/jellyflix-main/main/default.css");
+@import url("https://raw.githubusercontent.com/BlueGamesCFN/jellyflix-main/main/default.css");
 ```
 
-*(Note: Replace `YOUR_USERNAME/jellyflix-main` with your actual GitHub path after uploading)*
+*(Note: Ensure your repository is named `jellyflix-main` or update the URL accordingly)*
 
 ## Credits
 Based on the original [JellyFlix](https://github.com/Automationxperts/jellyflix) by Automationxperts.
